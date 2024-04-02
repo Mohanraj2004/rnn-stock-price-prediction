@@ -25,7 +25,7 @@ train the dataset
 ## Step 5:
 compile the training set
 
-S## tep 6:
+## Step 6:
 fit the training set
 
 
