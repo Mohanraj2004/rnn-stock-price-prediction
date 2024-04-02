@@ -34,7 +34,7 @@ fit the training set
 #### Name:S.Mohanraj
 #### Register Number:212221230065
 
-import numpy as np
+## import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
