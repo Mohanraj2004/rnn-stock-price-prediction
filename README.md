@@ -33,8 +33,8 @@ fit the training set
 ## Program
 #### Name:S.Mohanraj
 #### Register Number:212221230065
-
-## import numpy as np
+~~~
+import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
@@ -107,6 +107,7 @@ plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
 plt.show()
+~~~
 
 ## Output
 
